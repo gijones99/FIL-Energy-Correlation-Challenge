@@ -47,3 +47,6 @@ Submit a report describing the above findings. Make sure to include qualitative 
 
 ### Bonus (25 points):
 Find a dataset on the energy consumption of conventional data center storage and publish it on the Ocean Market. Then, compare the energy performance of Filecoin storage to that of conventional data centers. What can you conclude?
+
+### Link for report:
+https://docs.google.com/document/d/1chl5Hx4pKz35SDPd8TMuq9JCywHZm23Meckw726roJU/edit?usp=sharing

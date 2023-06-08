@@ -1,6 +1,7 @@
 # FIL-Energy-Correlation-Challenge
 
-https://questbook.app/explore_grants/about_grant/?grantId=0xf9c0f9d92e4a53e49527b2ce5eb5b2dc7256ad15&chainId=137&utm_source=Ocean+Market&utm_medium=dataset+link&utm_campaign=Storage+Energy
+[https://questbook.app/explore_grants/about_grant/?grantId=0xf9c0f9d92e4a53e49527b2ce5eb5b2dc7256ad15&chainId=137&utm_source=Ocean+Market&utm_medium=dataset+link&utm_campaign=Storage+Energy](https://blog.oceanprotocol.com/introducing-the-latest-ocean-data-challenge-storage-network-energy-consumption-6316b1045cac)
+https://medium.com/oceanprotocol/presenting-the-winners-of-the-storage-network-energy-consumption-data-challenge-bc1f44411bdf
 
 # Summary
 
